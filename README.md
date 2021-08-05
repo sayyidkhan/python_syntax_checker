@@ -1,4 +1,8 @@
 # python_syntax_checker
+- checks your html criteria, if a set of element exist in a html file
+- can be used as a marking scheme
+- currently it checks 17 tags by default
+- update the testcase variable to customise the testing specific for your marking scheme
 
 ## pre-requisite:
 must install
