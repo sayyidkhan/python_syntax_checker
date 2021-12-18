@@ -1,4 +1,6 @@
 # python_syntax_checker
+We use this application to mark the students work.
+
 - checks your html criteria, if a set of element exist in a html file
 - can be used as a marking scheme
 - currently it checks 17 tags by default
@@ -12,12 +14,14 @@ must install
 before even running the program!!
 
 ## how to use
+
+
 1. put all the students work in the same directory
 ensure that html, css and js is all in one html file
 2. run the python checker.py
-'''
-python3 checker.py
-'''
+   ```
+   python3 checker.py
+   ```
 3. open the spreadsheet to view the results of the student
 
 ## how to modify test cases
