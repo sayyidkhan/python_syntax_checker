@@ -6,7 +6,7 @@
 
 ## pre-requisite:
 must install
-
+- python 3.7 and above
 - openpyxl (pip3 install openpyxl)
 
 ## how to use
