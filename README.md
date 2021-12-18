@@ -9,6 +9,8 @@ must install
 - python 3.7 and above
 - openpyxl (pip3 install openpyxl)
 
+before even running the program!!
+
 ## how to use
 1. put all the students work in the same directory
 ensure that html, css and js is all in one html file
