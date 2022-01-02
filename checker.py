@@ -174,7 +174,7 @@ testcases = [
 ["student_name","DO_NOT_VALIDATE"],
 ## html - 12 items
 ["html","<html\s*.*>\s*.*<\/html>"],
-["body","<html\s*.*>\s*.*<\/body>"],
+["body","<body\s*.*>\s*.*<\/body>"],
 ["h1","<h1\s*.*>\s*.*<\/h1>"],
 ["h2","<h2\s*.*>\s*.*<\/h2>"],
 ["h3","<h2\s*.*>\s*.*<\/h3>"],
